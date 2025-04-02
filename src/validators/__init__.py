@@ -48,8 +48,8 @@ __all__ = (
     "discover",
     "jcb",
     "mastercard",
-    "visa",
     "unionpay",
+    "visa",
     "mir",
     # country
     "calling_code",
